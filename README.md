@@ -9,9 +9,12 @@
   - Shell Sort
 - Interactive controls for adjusting array size and speed of visualization.
 - Detailed analysis of algorithm performance, including time complexity and comparisons/swaps made.
-
+https://youtu.be/2cztIMOrrf8
 ## Demo Video
-[![Watch the demo on YouTube](youtube_thumbnail.png)]([YOUR_YOUTUBE_VIDEO_LINK](https://youtu.be/2cztIMOrrf8))
+## Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/2cztIMOrrf8)
+
 
 
 ## What I Learned
